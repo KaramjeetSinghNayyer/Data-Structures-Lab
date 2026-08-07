@@ -1,4 +1,4 @@
-##Assignment 1: ##
+Assignment 1: 
 Dynamic Array ADT (ANSI C)
 
 This document defines the interface for a Dynamic Array Abstract DataType (ADT) to be implemented in ANSI C.
