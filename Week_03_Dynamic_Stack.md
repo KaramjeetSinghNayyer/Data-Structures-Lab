@@ -293,29 +293,12 @@ int peek(DynamicStack *stack);
 
 Returns the top element without removing it.
 
----
-
-## 15. top()
-
-### Prototype
-
-```c
-int top(DynamicStack *stack);
-```
-
-### Description
-
-Alias for peek().
-
-(Some professors like having both.)
-
----
 
 # 5. Traversal
 
 ---
 
-## 16. display()
+## 15. display()
 
 ### Prototype
 
@@ -329,7 +312,7 @@ Displays stack contents from top to bottom.
 
 ---
 
-## 17. displayReverse()
+## 16. displayReverse()
 
 ### Prototype
 
@@ -347,7 +330,7 @@ Displays stack from bottom to top.
 
 ---
 
-## 18. copyStack()
+## 17. copyStack()
 
 ### Prototype
 
@@ -361,7 +344,7 @@ Creates a deep copy of the stack.
 
 ---
 
-## 19. compareStacks()
+## 18. compareStacks()
 
 ### Prototype
 
@@ -375,7 +358,7 @@ Checks whether two stacks are identical.
 
 ---
 
-## 20. swapStacks()
+## 19. swapStacks()
 
 ### Prototype
 
@@ -389,7 +372,7 @@ Exchanges the contents of two stacks.
 
 ---
 
-## 21. reverseStack()
+## 20. reverseStack()
 
 ### Prototype
 
@@ -407,7 +390,7 @@ Reverses the order of all elements.
 
 ---
 
-## 22. search()
+## 21. search()
 
 ### Prototype
 
@@ -426,7 +409,7 @@ Searches for a value from the top of the stack.
 
 ---
 
-## 23. contains()
+## 22. contains()
 
 ### Prototype
 
@@ -440,7 +423,7 @@ Checks if an element exists.
 
 ---
 
-## 24. countOccurrences()
+## 23. countOccurrences()
 
 ### Prototype
 
@@ -458,7 +441,7 @@ Counts occurrences of a value.
 
 ---
 
-## 25. max()
+## 24. max()
 
 ### Prototype
 
@@ -470,7 +453,7 @@ Returns largest element.
 
 ---
 
-## 26. min()
+## 25. min()
 
 ### Prototype
 
@@ -482,7 +465,7 @@ Returns smallest element.
 
 ---
 
-## 27. sum()
+## 26. sum()
 
 ### Prototype
 
@@ -494,7 +477,7 @@ Returns sum of all elements.
 
 ---
 
-## 28. average()
+## 27. average()
 
 ### Prototype
 
@@ -510,7 +493,7 @@ Returns arithmetic mean.
 
 ---
 
-## 29. validateStack()
+## 28. validateStack()
 
 ### Prototype
 
@@ -531,7 +514,7 @@ Checks that:
 
 ---
 
-## 30. printInfo()
+## 29. printInfo()
 
 ### Prototype
 
@@ -551,9 +534,9 @@ Prints diagnostic information, including:
 
 ---
 
-# 10. Optional Advanced Operations
+# 30. Optional Advanced Operations
 
-These are not part of a basic stack implementation but demonstrate deeper understanding and can earn extra credit.
+
 
 ---
 
